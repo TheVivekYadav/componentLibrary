@@ -1,0 +1,26 @@
+.component-code {
+  display: none;
+  white-space: pre-wrap;
+  font-family: monospace;
+  background-color: #f1f5f9;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+
+.component-preview {
+  border: 1px solid #e2e8f0;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.copy-button {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+}
+
+.copy-success {
+  background-color: #10b981 !important;
+}
